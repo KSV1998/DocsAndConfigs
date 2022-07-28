@@ -16,6 +16,7 @@
    * **Slack** - `sudo snap install slack --classic`
    * **Ghcid** - `stack install ghcid`
    * `export PATH=/home/$USER/.local/bin:$PATH`
+   * **Docker Compose** - `sudo apt install docker-compose`
    * **Microsoft Teams**
       - download teams .deb file from https://www.microsoft.com/en-in/microsoft-teams/download-app
       - open .deb file with software installer and click install.
